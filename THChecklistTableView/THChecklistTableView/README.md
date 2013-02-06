@@ -25,6 +25,7 @@ THChecklistTableViewControllerDelegate:
 - it will be notified when user is about to exist the table view. (Typically, you need copy the changes user has been made)
  
 Example:
+<code>
 //1. Creating data modal - MyDataModalItem is subclass of THChecklistItem
 for (int i = 0; i < ITEM_COUNT; i++) {
      dataModal = [[MyDataModal alloc]init];            
@@ -59,3 +60,4 @@ THChecklistTableViewController *checklistTableViewController = [[THChecklistTabl
     MyDataModal *dataModal = [[MyDataModal alloc]init];    
     return [[MyDataModalItem alloc]initWithDataModal:dataModal];
 }
+</code>
