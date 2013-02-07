@@ -16,7 +16,6 @@
 		E2160AF816BE2A3A00537379 /* MyDataModal.m in Sources */ = {isa = PBXBuildFile; fileRef = E2160AF716BE2A3A00537379 /* MyDataModal.m */; };
 		E2160AFB16BE2BA900537379 /* MyDataModalItem.m in Sources */ = {isa = PBXBuildFile; fileRef = E2160AFA16BE2BA900537379 /* MyDataModalItem.m */; };
 		E2160AFF16BEAF7300537379 /* NSMutableArray+ObjectMove.m in Sources */ = {isa = PBXBuildFile; fileRef = E2160AFE16BEAF7300537379 /* NSMutableArray+ObjectMove.m */; };
-		E2192E4316C2C4BF005285D7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E2192E4216C2C4BF005285D7 /* README.md */; };
 		E2456E1116BD71300026FEC3 /* THChecklistItem.m in Sources */ = {isa = PBXBuildFile; fileRef = E2456E1016BD71300026FEC3 /* THChecklistItem.m */; };
 		E28A1D6416B9666300DF97B6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E28A1D6316B9666300DF97B6 /* UIKit.framework */; };
 		E28A1D6616B9666300DF97B6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E28A1D6516B9666300DF97B6 /* Foundation.framework */; };
@@ -46,7 +45,6 @@
 		E2160AFA16BE2BA900537379 /* MyDataModalItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyDataModalItem.m; sourceTree = "<group>"; };
 		E2160AFD16BEAF7300537379 /* NSMutableArray+ObjectMove.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableArray+ObjectMove.h"; sourceTree = "<group>"; };
 		E2160AFE16BEAF7300537379 /* NSMutableArray+ObjectMove.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableArray+ObjectMove.m"; sourceTree = "<group>"; };
-		E2192E4216C2C4BF005285D7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		E2456E0F16BD71300026FEC3 /* THChecklistItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = THChecklistItem.h; sourceTree = "<group>"; };
 		E2456E1016BD71300026FEC3 /* THChecklistItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = THChecklistItem.m; sourceTree = "<group>"; };
 		E28A1D6016B9666300DF97B6 /* THChecklistTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = THChecklistTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -143,7 +141,6 @@
 		E28A1D6A16B9666300DF97B6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				E2192E4216C2C4BF005285D7 /* README.md */,
 				E2151E9516BAB0E300B6938A /* checkbox_checked.png */,
 				E2151E9616BAB0E300B6938A /* checkbox_checked@2x.png */,
 				E2151E9716BAB0E300B6938A /* checkbox_unchecked.png */,
@@ -233,7 +230,6 @@
 				E2151E9B16BAB0E300B6938A /* checkbox_unchecked.png in Resources */,
 				E2151E9C16BAB0E300B6938A /* checkbox_unchecked@2x.png in Resources */,
 				E2160AF516BE27BF00537379 /* DemoViewController.xib in Resources */,
-				E2192E4316C2C4BF005285D7 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
